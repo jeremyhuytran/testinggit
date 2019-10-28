@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jerem\desktop\coding folder\c++\random\randnum\randnum\main.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\jerem\desktop\coding folder\c++\random\randnum\randnum\main.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  randNum.vcxproj -> C:\Users\jerem\Desktop\coding folder\C++\random\randNum\Debug\randNum.exe
