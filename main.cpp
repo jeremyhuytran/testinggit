@@ -1,3 +1,4 @@
+//huyhuyhuy
 #include <iostream>
 #include <time.h>
 #include <vector>
@@ -10,9 +11,9 @@ unsigned int spry_coin_flip()
 	return rand() & 1;
 	//return time(0) && 1;
 }
-unsigned int custom_spry_random(unsigned int N) 
+unsigned int custom_spry_random(unsigned int N)
 {
-	//fill in code here (use spry_coin_flip(…) from step one)
+	//fill in code here (use spry_coin_flip(ï¿½) from step one)
 	//do not call a random number generator directly
 	// return num = 1 .... N
 	//unsigned int result = 0;
@@ -61,7 +62,7 @@ int main()
 		std::cout << spry_coin_flip() << " ";
 	}
 	std::cout << std::endl << count1 << " " << count0<< std::endl;*/
-	
+
 
 
 
@@ -80,8 +81,8 @@ int main()
 	{
 		std::cout << "counts[" << j << "] = " << i <<  " " << std::fixed << std::setw(6) << std::setprecision(2) << (float(i)/ 20000.0 *100) << std::endl;
 		j++;
-	}	
-	
+	}
+
 	//if (array[0] != array[1])
 	//{
 	//	times++;
